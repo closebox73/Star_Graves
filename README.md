@@ -7,12 +7,12 @@ Then read this [Manual Instruction](https://github.com/closebox73/applying-theme
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Star_Graves&countColor=%232BB2E9)
 
-### JN-02
+### <p align="center"><b><samp>JN-02</samp></b></p>
 ![](/Asset/JN-02.png)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### JN-01
+### <p align="center"><b><samp>JN-01</samp></b></p>
 ![](/Asset/JN-01.png)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
