@@ -9,6 +9,7 @@ Then read this [Manual Instruction](https://github.com/closebox73/applying-theme
 
 ### <p align="center"><b><samp>JN-03</samp></b></p>
 <p align="center"><b><samp>*( aka. Tegmine )*</samp></b></p>
+
 ![](/Asset/JN-03.png)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
