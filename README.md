@@ -1,11 +1,18 @@
 ![greetings](/Asset/Head.png)
 
+<p align="center">
 Where dead star buried... <br>
 You can use these carcasses by downloading the zip or by cloning them... <br>
+</p>
 
 Then read this [Manual Instruction](https://github.com/closebox73/applying-theme)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Star_Graves&countColor=%232BB2E9)
+
+### <p align="center"><b><samp>JL-01</samp></b></p>
+<p align="center"><i><samp>( aka. Mizar )</samp></i></p>
+
+![](/Asset/JL-01.png)
 
 ### <p align="center"><b><samp>JN-04</samp></b></p>
 <p align="center"><i><samp>( aka. Mira )</samp></i></p>
