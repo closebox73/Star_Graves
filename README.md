@@ -13,7 +13,11 @@ You can use these carcasses by downloading the zip or by cloning them... <br>
 Then read this <a href="https://github.com/closebox73/applying-theme">Manual Instruction</a>
 </p>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Star_Graves&countColor=%232BB2E9)
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/closebox73/Star_Graves?style=for-the-badge&color=2AB1E8">
+  <img src="https://img.shields.io/github/license/closebox73/Star_Graves?style=for-the-badge&color=DD3FA4">
+</p>
+
 
 ### <p align="center"><b><samp>JL-04</samp></b></p>
 <p align="center"><i><samp>( aka. Azimech )</samp></i></p>
@@ -65,4 +69,5 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 ### <p align="center"><b><samp>JN-01</samp></b></p>
 ![](/Asset/JN-01.png)
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Star_Graves&countColor=%232BB2E9)
 <p align="center"><a href="#readme-top">---------- || Back to top || ----------</a></p>
