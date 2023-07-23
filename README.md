@@ -15,6 +15,13 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Star_Graves&countColor=%232BB2E9)
 
+### <p align="center"><b><samp>JL-04</samp></b></p>
+<p align="center"><i><samp>( aka. Azimech )</samp></i></p>
+
+![](/Asset/JL-04.png)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 ### <p align="center"><b><samp>JL-03</samp></b></p>
 <p align="center"><i><samp>( aka. Albireo )</samp></i></p>
 
