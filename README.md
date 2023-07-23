@@ -69,5 +69,7 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 ### <p align="center"><b><samp>JN-01</samp></b></p>
 ![](/Asset/JN-01.png)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Star_Graves&countColor=%232BB2E9)
+<p align="center">
+	<img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Star_Graves&countColor=%232BB2E9">
+</p>
 <p align="center"><a href="#readme-top">---------- || Back to top || ----------</a></p>
