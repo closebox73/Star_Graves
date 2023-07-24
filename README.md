@@ -22,6 +22,7 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 <p align="center"><i><samp>( aka. Achernar )</samp></i></p>
 
 ![](/Asset/JL-05.jpg)
+|--|
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
