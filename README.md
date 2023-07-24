@@ -24,54 +24,50 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### <p align="center"><b><samp>JL-04</samp></b></p>
-<p align="center"><i><samp>( aka. Azimech )</samp></i></p>
-
+|<p align="center"><b><samp>JL-04 </samp></b><i><samp>( aka. Azimech )</samp></i></p>|
+|-----|
 ![](/Asset/JL-04.jpg)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### <p align="center"><b><samp>JL-03</samp></b></p>
-<p align="center"><i><samp>( aka. Albireo )</samp></i></p>
-
+|<p align="center"><b><samp>JL-03 </samp></b><i><samp>( aka. Albireo )</samp></i></p>|
+|-----|
 ![](/Asset/JL-03.jpg)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### <p align="center"><b><samp>JL-02</samp></b></p>
-<p align="center"><i><samp>( aka. Castor )</samp></i></p>
-
+|<p align="center"><b><samp>JL-02 </samp></b><i><samp>( aka. Castor )</samp></i></p>|
+|-----|
 ![](/Asset/JL-02.jpg)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### <p align="center"><b><samp>JL-01</samp></b></p>
-<p align="center"><i><samp>( aka. Mizar )</samp></i></p>
-
+|<p align="center"><b><samp>JL-01 </samp></b><i><samp>( aka. Mizar )</samp></i></p>|
+|-----|
 ![](/Asset/JL-01.jpg)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### <p align="center"><b><samp>JN-04</samp></b></p>
-<p align="center"><i><samp>( aka. Mira )</samp></i></p>
-
+|<p align="center"><b><samp>JN-04 </samp></b><i><samp>( aka. Mira )</samp></i></p>|
+|-----|
 ![](/Asset/JN-04.jpg)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### <p align="center"><b><samp>JN-03</samp></b></p>
-<p align="center"><i><samp>( aka. Tegmine )</samp></i></p>
-
+|<p align="center"><b><samp>JN-03 </samp></b><i><samp>( aka. Tegmine )</samp></i></p>|
+|-----|
 ![](/Asset/JN-03.jpg)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### <p align="center"><b><samp>JN-02</samp></b></p>
+|<p align="center"><b><samp>JN-02</samp></b></p>|
+|-----|
 ![](/Asset/JN-02.jpg)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### <p align="center"><b><samp>JN-01</samp></b></p>
+|<p align="center"><b><samp>JN-01</samp></b></p>|
+|-----|
 ![](/Asset/JN-01.jpg)
 
 <p align="center">
