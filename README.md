@@ -18,6 +18,12 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
   <img src="https://img.shields.io/github/license/closebox73/Star_Graves?style=for-the-badge&color=DD3FA4">
 </p>
 
+|<p align="center"><b><samp>JL-06 </samp></b><i><samp>( aka. Cursa )</samp></i></p>|
+|-----|
+![](/Asset/JL-06.jpg)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 |<p align="center"><b><samp>JL-05 </samp></b><i><samp>( aka. Achernar )</samp></i></p>|
 |-----|
 ![](/Asset/JL-05.jpg)
