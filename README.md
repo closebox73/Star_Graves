@@ -66,6 +66,7 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 <details>
 <summary><em>Click to view contents</em></summary>
 <br>
+
 |<p align="center"><b><samp>JN-04 </samp></b><i><samp>( aka. Mira )</samp></i></p>|
 |-----|
 ![](/Asset/JN-04.jpg)
