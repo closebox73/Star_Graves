@@ -20,6 +20,8 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ------------------------------------------------------------------------
 
+## JL BLOCKS
+
 |<p align="center"><b><samp>JL-07 </samp></b><i><samp>( aka. Pollux )</samp></i></p>|
 |-----|
 ![](/Asset/JL-07.jpg)
@@ -64,7 +66,7 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ## JN BLOCKS
 <details>
-<summary><em>Click to view contents</em></summary>
+<summary><em>Click to view contents ( 4 )</em></summary>
 <br>
 
 |<p align="center"><b><samp>JN-04 </samp></b><i><samp>( aka. Mira )</samp></i></p>|
