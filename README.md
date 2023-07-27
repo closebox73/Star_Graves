@@ -62,8 +62,10 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
+## JN BLOCKS
 <details>
-<summary><b>JN Blocks</b></summary>
+<summary><em>Click to view content</em></summary>
+
 |<p align="center"><b><samp>JN-04 </samp></b><i><samp>( aka. Mira )</samp></i></p>|
 |-----|
 ![](/Asset/JN-04.jpg)
