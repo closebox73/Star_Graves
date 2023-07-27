@@ -62,6 +62,8 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
+<details>
+<summary><b>JN Blocks</b></summary>
 |<p align="center"><b><samp>JN-04 </samp></b><i><samp>( aka. Mira )</samp></i></p>|
 |-----|
 ![](/Asset/JN-04.jpg)
@@ -83,6 +85,8 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 |<p align="center"><b><samp>JN-01</samp></b></p>|
 |-----|
 ![](/Asset/JN-01.jpg)
+
+</details>
 
 <p align="center">
 	<img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Star_Graves&countColor=%232BB2E9">
