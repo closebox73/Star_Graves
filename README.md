@@ -22,6 +22,12 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ## JL BLOCKS
 
+|<p align="center"><b><samp>JL-08 </samp></b><i><samp>( aka. Fornax )</samp></i></p>|
+|-----|
+![](/Asset/JL-08.jpg)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 |<p align="center"><b><samp>JL-07 </samp></b><i><samp>( aka. Pollux )</samp></i></p>|
 |-----|
 ![](/Asset/JL-07.jpg)
