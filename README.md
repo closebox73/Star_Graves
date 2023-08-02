@@ -22,7 +22,7 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ## AG BLOCKS
 
-|<p align="center"><b><samp>AG-02 </samp></b><i><samp>( aka. Tarf Dark )</samp></i></p>|
+|<p align="center"><b><samp>AG-02 </samp></b><i><samp>( aka. Tarf Light )</samp></i></p>|
 |-----|
 ![](/Asset/AG-02.jpg)
 
