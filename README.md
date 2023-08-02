@@ -20,7 +20,18 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ------------------------------------------------------------------------
 
+## AG BLOCKS
+
+|<p align="center"><b><samp>AG-01 </samp></b><i><samp>( aka. Tarf Dark )</samp></i></p>|
+|-----|
+![](/Asset/AG-01.jpg)
+
+------------------------------------------------------------------------
+
 ## JL BLOCKS
+<details>
+<summary><em>Click to view contents ( 8 )</em></summary>
+<br>
 
 |<p align="center"><b><samp>JL-08 </samp></b><i><samp>( aka. Fornax )</samp></i></p>|
 |-----|
@@ -68,7 +79,9 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 |-----|
 ![](/Asset/JL-01.jpg)
 
-<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+</details>
+
+------------------------------------------------------------------------
 
 ## JN BLOCKS
 <details>

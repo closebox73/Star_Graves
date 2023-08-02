@@ -1,0 +1,10 @@
+Its easy to change Accent color with your Favorite Color
+
+1)	Get hex code from your fave color, for example 008080 is hex code from Teal color
+2)	Open Terminal and execute
+
+		cd ~/.config/conky/AG-01
+		./change-color.sh 008080
+		
+3)	Wait until Finish
+4)	Done!
