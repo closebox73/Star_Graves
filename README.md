@@ -22,6 +22,12 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ## AG BLOCKS
 
+|<p align="center"><b><samp>AG-03 </samp></b><i><samp>( aka. Rischa )</samp></i></p>|
+|-----|
+![](/Asset/AG-03.jpg)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 |<p align="center"><b><samp>AG-02 </samp></b><i><samp>( aka. Tarf Light )</samp></i></p>|
 |-----|
 ![](/Asset/AG-02.jpg)
