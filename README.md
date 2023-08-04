@@ -6,10 +6,21 @@
 
 <p align="center">
 Where dead star buried... <br>
-You can use these carcasses by downloading the zip or by cloning them... <br>
+what's in here won't get updated, You can use these carcasses by downloading the zip or by cloning them...
 </p>
 
 <p align="center">
+Still want to clone??? <br>
+execute the following command
+</p>
+
+
+```bash
+  git clone https://github.com/closebox73/Star_Graves.git
+  ```
+  
+<p align="center">
+But it will summon all carcasses, so be aware.. <br>
 Then read this <a href="https://github.com/closebox73/applying-theme">Manual Instruction</a>
 </p>
 
