@@ -34,6 +34,12 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ## AG BLOCKS
 
+|<p align="center"><b><samp>AG-10 </samp></b><i><samp>( aka. Canopus )</samp></i></p>|
+|-----|
+![](/Asset/AG-10.jpg)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 |<p align="center"><b><samp>AG-09 </samp></b><i><samp>( aka. Arrakis )</samp></i></p>|
 |-----|
 ![](/Asset/AG-09.jpg)
