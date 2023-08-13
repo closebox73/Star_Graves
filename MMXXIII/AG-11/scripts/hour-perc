@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# an idiot script :V
+# Closebox73
+
+
+HR=$(date +"%H")
+MNT=$(date +"%M")
+HR2=$(expr $HR \* 60)
+HR3=$(expr $HR2 + $MNT)
+FL=1440
+PERC=$(expr $HR3 \* 100 / $FL)
+
+echo $PERC
+
+exit
