@@ -1,0 +1,30 @@
+#! /bin/bash
+
+SCND=$(date +"%S")
+HMDTY=$(cat ~/.cache/weather.json | jq '.main.humidity')
+WNDS=$(cat ~/.cache/weather.json | jq '.wind.speed')
+LCTN=$(cat ~/.cache/weather.json | jq -r '.name')
+WTHR=$(cat ~/.cache/weather.json | jq -r '.weather[0].description' )
+FLS=$(cat ~/.cache/weather.json | jq '.main.feels_like' | awk '{print int($1+0.5)}')
+
+
+if  [[ $SCND -lt "12" ]]
+then
+	echo "$LCTN"
+elif (( $SCND > 12 )) && (( $SCND <= 24 ))
+then
+	echo "FEELS LIKE $FLS °C"
+elif (( $SCND > 24 )) && (( $SCND <= 36 ))
+then
+	echo "$WTHR"
+elif (( $SCND > 36 )) && (( $SCND <= 48 ))
+then
+	echo "HUMIDITY $HMDTY %"
+elif (( $SCND > 38 )) && (( $SCND <= 59 ))
+then
+	echo "WINDS $WNDS m/s"
+else
+	echo "$LCTN"
+fi
+
+exit
