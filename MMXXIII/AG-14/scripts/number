@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Simple script to display a sequence of number
+# Closebox73
+
+DATE=$(date +"%^d")
+
+if [[ "${DATE}" = *01* ]] || [[ "${DATE}" = *21* ]] || [[ "${DATE}" = *31* ]]; then
+    echo "st"
+elif [[ "${DATE}" = *02* ]] || [[ "${DATE}" = *22* ]]; then
+    echo "nd"
+elif [[ "${DATE}" = *03* ]] || [[ "${DATE}" = *23* ]]; then
+    echo "rd"
+else
+	echo "th"
+fi

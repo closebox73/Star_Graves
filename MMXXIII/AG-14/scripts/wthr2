@@ -1,0 +1,36 @@
+#! /bin/bash
+
+# Closebox73
+
+SCND=$(date +"%S")
+
+# Variable
+HMDTY=$(cat ~/.cache/weather.json | jq '.main.humidity')
+WNDS=$(cat ~/.cache/weather.json | jq '.wind.speed')
+LCTN=$(cat ~/.cache/weather.json | jq -r '.name')
+CNTRY=$(cat ~/.cache/weather.json | jq -r '.sys.country')
+WTHR=$(cat ~/.cache/weather.json | jq -r '.weather[0].main' )
+FLS=$(cat ~/.cache/weather.json | jq '.main.feels_like' | awk '{print int($1+0.5)}')
+TEMP=$(cat ~/.cache/weather.json | jq '.main.temp' | awk '{print int($1+0.5)}')
+
+
+if  ( $SCND <= 12 );
+then
+	echo "$LCTN"
+elif (( $SCND > 12 )) && (( $SCND <= 24 ));
+then
+	echo "$WTHR, $TEMP°C"
+elif (( $SCND > 24 )) && (( $SCND <= 36 ));
+then
+	echo "Feels like $FLS°C"
+elif (( $SCND > 36 )) && (( $SCND <= 48 ));
+then
+	echo "Humidity $HMDTY%"
+elif (( $SCND > 48 )) && (( $SCND <= 59 ));
+then
+	echo "Wind $WNDS m/s"
+else
+	echo "$LCTN, $CNTRY"
+fi
+
+exit
