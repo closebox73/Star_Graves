@@ -34,6 +34,18 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ## AG BLOCKS
 
+|<p align="center"><b><samp>AG-17 </samp></b><i><samp>( aka. Meissa )</samp></i></p>|
+|-----|
+![](/Asset/AG-17.jpg)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
+|<p align="center"><b><samp>AG-16 </samp></b><i><samp>( aka. Rigel )</samp></i></p>|
+|-----|
+![](/Asset/AG-16.jpg)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 |<p align="center"><b><samp>AG-15 </samp></b><i><samp>( aka. Atlas )</samp></i></p>|
 |-----|
 ![](/Asset/AG-15.jpg)
