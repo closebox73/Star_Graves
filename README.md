@@ -32,7 +32,18 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ------------------------------------------------------------------------
 
+## SP BLOCKS
+
+|<p align="center"><b><samp>SP-01 </samp></b><i><samp>( aka. Taygeta )</samp></i></p>|
+|-----|
+![](/Asset/SP-01.jpg)
+
+------------------------------------------------------------------------
+
 ## AG BLOCKS
+<details>
+<summary><em>Click to view contents ( 17 )</em></summary>
+<br>
 
 |<p align="center"><b><samp>AG-17 </samp></b><i><samp>( aka. Meissa )</samp></i></p>|
 |-----|
@@ -133,6 +144,8 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 |<p align="center"><b><samp>AG-01 </samp></b><i><samp>( aka. Tarf Dark )</samp></i></p>|
 |-----|
 ![](/Asset/AG-01.jpg)
+
+</details>
 
 ------------------------------------------------------------------------
 
