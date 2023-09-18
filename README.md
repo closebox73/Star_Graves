@@ -34,6 +34,12 @@ Then read this <a href="https://github.com/closebox73/applying-theme">Manual Ins
 
 ## SP BLOCKS
 
+|<p align="center"><b><samp>SP-05 </samp></b><i><samp>( aka. Jabbah )</samp></i></p>|
+|-----|
+![](/Asset/SP-05.jpg)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 |<p align="center"><b><samp>SP-04 </samp></b><i><samp>( aka. Adhavera )</samp></i></p>|
 |-----|
 ![](/Asset/SP-04.jpg)
